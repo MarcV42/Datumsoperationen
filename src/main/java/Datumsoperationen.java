@@ -14,12 +14,10 @@ public class Datumsoperationen {
 
         // Schritt 3: Vergleich mit einem zukünftigen Datum
         LocalDateTime futureDate = LocalDateTime.of(2024, 1, 31, 0, 0); // Beispiel: 31. Dezember 2023
-        if (currentDateTime.isBefore(futureDate)) {
-            System.out.println("Aktuelles Datum liegt vor dem festgelegten Datum.");
-        } else if (currentDateTime.isAfter(futureDate)) {
+        if (currentDateTime.isAfter(futureDate)) {
             System.out.println("Aktuelles Datum liegt nach dem festgelegten Datum.");
         } else {
-            System.out.println("Aktuelles Datum ist gleich dem festgelegten Datum.");
+            System.out.println("Aktuelles Datum ist vor dem festgelegten Datum.");
         }
 
         // Schritt 4: Berechne die Differenz in Tagen zwischen zwei Daten

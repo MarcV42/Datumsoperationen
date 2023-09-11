@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34101c67-100f-4588-9aee-c301ef92acae" name="Changes" comment="DateOperations">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="34101c67-100f-4588-9aee-c301ef92acae" name="Changes" comment="DateOperations2">
       <change beforePath="$PROJECT_DIR$/src/main/java/Datumsoperationen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Datumsoperationen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694437585097</updated>
-      <workItem from="1694437586166" duration="5251000" />
+      <workItem from="1694437586166" duration="5571000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -86,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694439057556</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="DateOperations2">
+      <option name="closed" value="true" />
+      <created>1694443594933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694443594933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="DateOperations" />
-    <option name="LAST_COMMIT_MESSAGE" value="DateOperations" />
+    <MESSAGE value="DateOperations2" />
+    <option name="LAST_COMMIT_MESSAGE" value="DateOperations2" />
   </component>
 </project>
